@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', ()=>{
-    const form = document.getElementById(id='registrationForm');
+    const form = document.getElementById(id='registration-form');
     const feedbackDiv = document.getElementById(id='form-feedback')
     feedbackDiv.style.display="block"
         if(isValid=true){
